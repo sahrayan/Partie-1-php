@@ -8,6 +8,7 @@ echo "Montant en francs : ". $francs;
 
 echo "<br>";
 
-echo $francs ." francs : ". $euro. " €";
+
+echo $francs ." francs : ". number_format($euro,2). " €";
 
 ?> 
