@@ -11,3 +11,4 @@ $phrase = "Notre formation commence aujourd'huit";
 $longueur = strlen($phrase); //strlen = permets de compter le nombre de mots.
 echo "la phrase « $phrase » contient $longueur caractères<br>";
 echo "la phrase « $phrase » contien ". strlen($phrase). " caractères<br>";
+
